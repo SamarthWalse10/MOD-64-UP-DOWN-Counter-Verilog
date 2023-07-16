@@ -9,7 +9,6 @@ Simulation and testing were performed using Xilinx Vivado 2021.2.
 ## Contents
 The src directory contains the Verilog source code for the MOD-64 Reconfigurable UP/DOWN Counter.
 The sim directory includes the simulation files and test bench code.
-The docs directory contains the project documentation, including theory, construction details, observations, and results.
 ## Usage
 1. Clone the repository: 
     ```bash
