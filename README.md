@@ -19,4 +19,5 @@ The sim directory includes the simulation files and test bench code.
 5. Analyze the simulation results and verify the functionality of the MOD-64 Reconfigurable UP/DOWN Counter.
 ## Screenshots
 ![result_counter](https://github.com/SamarthWalse10/MOD-64-UP-DOWN-Counter-Verilog/assets/125689593/ad3f510a-3e3b-429e-a025-450d0a3ea7d0)
+<br/><br/><br/>
 ![circuit_diagram_counter](https://github.com/SamarthWalse10/MOD-64-UP-DOWN-Counter-Verilog/assets/125689593/c0b27f16-9327-4628-84c0-ac2bb5ea83fc)
